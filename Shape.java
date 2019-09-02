@@ -6,7 +6,7 @@
  * @version (버전 번호나 날짜)
  */
 
-public interface Shape
+interface Shape
 {
     final double PI = 3.14;
     void draw();
